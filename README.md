@@ -1,0 +1,1 @@
+This is online site for people are in love with Dance and want to continue their dance forever.From juniors to seniors,everyone can join and learn dancing. I have created this site using HTML and CSS.All the details are there in the site.
